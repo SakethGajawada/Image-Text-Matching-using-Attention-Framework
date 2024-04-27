@@ -5,6 +5,7 @@
 # Code Files
 ## Stacked Cross Attention for Image-Text Matching
 This code consumes more than 30 GB of RAM. It need Good GPU and more than 128 GB of RAM.
+
 [Kaggle Notebook Link](https://www.kaggle.com/code/sakethg1729/stacked-cross-attention-for-image-text-matching)
 
 ## Our Simplified Implementation for Kaggle

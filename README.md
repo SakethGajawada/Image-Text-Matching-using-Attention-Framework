@@ -10,3 +10,5 @@ This code consumes more than 30 GB of RAM. It need Good GPU and more than 128 GB
 
 ## Our Simplified Implementation for Kaggle
 [Kaggle Notebook Link](https://www.kaggle.com/code/sakethg1729/image-text-matching-using-attention-frameworks)
+
+## Detailed description is given in the Report

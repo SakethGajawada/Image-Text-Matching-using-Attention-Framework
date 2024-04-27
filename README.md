@@ -1,5 +1,6 @@
 # DataSet
-[FLickr8k Dataset]([https://www.kaggle.com/datasets/kuanghueilee/scan-features](https://www.kaggle.com/datasets/adityajn105/flickr8k))
+
+[FLickr8k Dataset](https://www.kaggle.com/datasets/adityajn105/flickr8k)
 
 [FLickr30k Dataset](https://www.kaggle.com/datasets/kuanghueilee/scan-features)
 
